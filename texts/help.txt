@@ -1,0 +1,17 @@
+>>> Command-Line Text Translator <<<
+
+Usage:
+--help, -h
+    Displays this menu.
+
+--format <in> [out], -f <in> [out]
+    Formats the latin text by appending macrons and stripping spaces.
+
+--translate <in> [out], -t <in> [out]
+    Translates and parses the latin text.
+
+--formatted-translate <in> [out], -ft <in> [out]
+    Formats the latin text and then translates and parses it.
+
+Powered by latin-words.com
+Made by DmmD GM
